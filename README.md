@@ -36,3 +36,21 @@ URL do curso -> [Elixir: Recursão, Enums e formas de execução](https://cursos
 
 ### 03 - Convenções de Nome
 * Definir convenções comuns para programas em **Elixir**.
+
+***
+
+## 02 - Tail Recursion &#x1F516;
+* Implementamos o desafio da tabuada.
+* Mudamos a implementação de body recursion para tail recursion.
+* Entendemos o conceito de tail-call optimization.
+
+### 01 - Desafio Tabuada
+* O problema do ***body recursion*** na chamada de funções.
+* Re-implementando o desafio da tabuada.
+
+### 02 - Usando Tail Recursion
+* Usar a ***tail recursion*** para o problema da tabuada.
+* Desvantagens de usar a ***tail recursion***.
+
+### 03 - Tail Call Optimization
+* Como a ***tail recursion*** é feita no **Elixir**.
