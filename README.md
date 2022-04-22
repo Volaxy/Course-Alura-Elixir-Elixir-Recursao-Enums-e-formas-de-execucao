@@ -77,3 +77,30 @@ URL do curso -> [Elixir: Recursão, Enums e formas de execução](https://cursos
 
 ### 04 - Streams
 * Reduzir o custo de processamento com **Streams**.
+
+***
+
+## 04 - Lidando com Arquivos &#x1F516;
+* Aprendemos a ler um arquivo com Elixir.
+* Conhecemos os possíveis erros ao se ler um arquivo.
+* Aprendemos a escrever em um arquivo.
+* Conhecemos um pouco melhor o módulo IO.
+* Fomos apresentados ao módulo Path.
+
+### 01 - File.read
+* Ler o conteúdo de um arquivo.
+* O uso do `!` no nome de uma função.
+
+### 02 - Lendo com Erro
+* Exibindo o conteúdo do arquivo caso ele exista.
+* Exibindo mensagens caso o arquivo não exista.
+* Filtrando o tipo de erro de arquivo.
+
+### 03 - File.write
+* Criar um novo arquivo para escrita com `open`.
+* Escrever em uma variável de arquivo com `IO.write`.
+* Fechar um arquivo com `close`.
+* Diferenças entre o módulo `IO` e o `File` para escrita em arquivos.
+
+### 04 - Módulo Path
+* Retornando diretórios com o módulo `Path`.
