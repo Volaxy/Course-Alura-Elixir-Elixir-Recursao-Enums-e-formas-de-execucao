@@ -10,15 +10,6 @@ URL do curso -> [Elixir: Recursão, Enums e formas de execução](https://cursos
 
 ![Elixir: Recursão, Enums e formas de execução](https://www.alura.com.br/assets/api/share/curso-elixir-recursao-enums-execucao.png)
 
-## Links Úteis &#x1F517;
-*
-
-## Siglas &#x1F5FA;
-*
-
-## Atalhos &#x2328;
-*
-
 ## 01 - Mais Sobre Funções &#x1F516;
 * Conhecemos as cláusulas de guarda.
 * Aprendemos a usar valores padrão em funções.
@@ -104,3 +95,16 @@ URL do curso -> [Elixir: Recursão, Enums e formas de execução](https://cursos
 
 ### 04 - Módulo Path
 * Retornando diretórios com o módulo `Path`.
+
+***
+
+## 05 - Formas de Execução &#x1F516;
+* Aprendemos a usar o elixirc para "compilar" um módulo.
+* Como usar um módulo compilado pelo interpretador "elixir".
+
+### 01 - Compilando um Módulo
+* Gerar um arquivo compilado com `elixirc`.
+
+### 02 - Mix
+* Usar o módulo `mix` para criação de projetos **Elixir**.
+* Usar o comando `mix help` para obter a lista de comandos do **mix**.
