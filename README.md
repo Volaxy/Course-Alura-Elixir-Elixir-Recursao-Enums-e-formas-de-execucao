@@ -54,3 +54,26 @@ URL do curso -> [Elixir: Recursão, Enums e formas de execução](https://cursos
 
 ### 03 - Tail Call Optimization
 * Como a ***tail recursion*** é feita no **Elixir**.
+
+***
+
+## 03 - Valores Enumeráveis &#x1F516;
+* Entendemos o que são valores enumeráveis.
+* Conhecemos o módulo Enum.
+* Aprendemos sobre intervalos.
+* Usamos o Pipe Operator.
+* Conhecemos os streams para Lazy Evaluation de enumeráveis.
+
+### 01 - Módulo Enum
+* Fazer operações com elementos de uma lista e somar todos os elementos.
+
+### 02 - Range
+* Criar **intervalos** com a sintaxe de `..`.
+* Personalizar **intervalos**.
+* Colocar `_` dentro de números.
+
+### 03 - Pipe Operator
+* Utilizar valor da função anterior como parâmetro para a próxima função com o ***pipe operator***.
+
+### 04 - Streams
+* Reduzir o custo de processamento com **Streams**.
